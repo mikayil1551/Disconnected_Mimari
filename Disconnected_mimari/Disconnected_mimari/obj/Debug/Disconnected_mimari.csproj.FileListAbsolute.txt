@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\bin\Debug\Disconnected_mimari.exe.config
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\bin\Debug\Disconnected_mimari.exe
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\bin\Debug\Disconnected_mimari.pdb
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.Form1.resources
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.exe
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.pdb
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.KategoriForm.resources
